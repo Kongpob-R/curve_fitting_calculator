@@ -11,6 +11,6 @@ The curve fitting calculator is a web application that provides an online soluti
 * React-plotly.js ver.2.5.1
 
 # Screenshot
-![screenshot1](https://drive.google.com/file/d/1EPlYowl6c5D8DgEEa4Ci63TLRtkskcta/view?usp=sharing)
-![screenshot2](https://drive.google.com/file/d/1QLtXbl5ljp99DXFDXxpfiY43sPNy2Gps/view?usp=sharing)
-![screenshot3](https://drive.google.com/file/d/1CDo9-LC9bh7PGlcVy2qGczxyOEUAjq3a/view?usp=sharing)
+![screenshot1](https://drive.google.com/uc?export=view&id=1EPlYowl6c5D8DgEEa4Ci63TLRtkskcta)
+![screenshot2](https://drive.google.com/uc?export=view&id=1QLtXbl5ljp99DXFDXxpfiY43sPNy2Gps)
+![screenshot3](https://drive.google.com/uc?export=view&id=1CDo9-LC9bh7PGlcVy2qGczxyOEUAjq3a)
